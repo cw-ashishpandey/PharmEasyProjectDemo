@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PharmEasyDemoProject</string>
+    <string name="offline_mode_msg">Offline Mode</string>
+    <string name="error_msg">Something went wrong</string>
+    <string name="network_failure_msg">Network is not working</string>
+</resources>
